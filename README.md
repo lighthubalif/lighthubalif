@@ -102,22 +102,20 @@ I am committed to writing clean, efficient code and creating seamless user exper
 ---
 
 ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/lighthubalif">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lighthubalif&repo=REPLACE_WITH_PROJECT_1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/lighthubalif/project_Health_check">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lighthubalif&repo=project_Health_check&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/lighthubalif">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lighthubalif&repo=REPLACE_WITH_PROJECT_2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/lighthubalif/ass-05">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lighthubalif&repo=ass-05&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <i>More projects coming soon! 🚀</i>
+  <b>✨ Check out my projects and feel free to contribute!</b>
 </p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
